@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.la-razon.com.ico",
     "slug": "la-razon-intranet",
     "status": "down",
-    "uptime": "37.02%",
+    "uptime": "37.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "39.15%",
+    "uptimeYear": "39.42%",
     "time": 103,
-    "timeDay": 123,
-    "timeWeek": 116,
+    "timeDay": 103,
+    "timeWeek": 117,
     "timeMonth": 120,
     "timeYear": 104,
     "dailyMinutesDown": {
@@ -235,8 +235,7 @@
       "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
-      "2023-11-29": 1440,
-      "2023-11-28": 1440
+      "2023-11-29": 1440
     }
   },
   {
@@ -245,16 +244,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.transturin.com.ico",
     "slug": "transturin-srl",
     "status": "down",
-    "uptime": "53.61%",
+    "uptime": "53.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "50.59%",
-    "time": 1710,
-    "timeDay": 1778,
-    "timeWeek": 2291,
-    "timeMonth": 1943,
-    "timeYear": 1693,
+    "time": 1711,
+    "timeDay": 2120,
+    "timeWeek": 2151,
+    "timeMonth": 1951,
+    "timeYear": 1695,
     "dailyMinutesDown": {
       "2024-07-05": 272,
       "2024-07-04": 1440,
@@ -446,15 +445,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/remoto.la-razon.com.ico",
     "slug": "remoto",
     "status": "down",
-    "uptime": "37.02%",
+    "uptime": "37.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "39.15%",
+    "uptimeYear": "39.42%",
     "time": 104,
-    "timeDay": 106,
-    "timeWeek": 109,
-    "timeMonth": 102,
+    "timeDay": 126,
+    "timeWeek": 111,
+    "timeMonth": 103,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2024-07-05": 272,
@@ -676,8 +675,7 @@
       "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
-      "2023-11-29": 1440,
-      "2023-11-28": 1440
+      "2023-11-29": 1440
     }
   },
   {
@@ -686,16 +684,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/drive.root24.eu.org.ico",
     "slug": "drive24",
     "status": "down",
-    "uptime": "37.02%",
+    "uptime": "37.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "39.15%",
+    "uptimeYear": "39.42%",
     "time": 409,
-    "timeDay": 262,
-    "timeWeek": 1642,
-    "timeMonth": 883,
-    "timeYear": 423,
+    "timeDay": 444,
+    "timeWeek": 984,
+    "timeMonth": 732,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2024-07-05": 272,
       "2024-07-04": 1440,
@@ -916,8 +914,7 @@
       "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
-      "2023-11-29": 1440,
-      "2023-11-28": 1440
+      "2023-11-29": 1440
     }
   },
   {
@@ -931,13 +928,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 537,
-    "timeDay": 411,
-    "timeWeek": 249,
-    "timeMonth": 453,
-    "timeYear": 537,
+    "time": 534,
+    "timeDay": 395,
+    "timeWeek": 279,
+    "timeMonth": 458,
+    "timeYear": 534,
     "dailyMinutesDown": {
-      "2024-11-26": 206,
+      "2024-11-27": 210,
+      "2024-11-26": 2880,
       "2024-11-25": 2880,
       "2024-11-24": 2880,
       "2024-11-23": 2880,
@@ -990,13 +988,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 420,
-    "timeDay": 380,
-    "timeWeek": 324,
+    "timeDay": 315,
+    "timeWeek": 332,
     "timeMonth": 676,
     "timeYear": 435,
     "dailyMinutesDown": {
-      "2024-09-20": 15,
-      "2023-11-28": 30
+      "2024-09-20": 15
     }
   },
   {
@@ -1011,13 +1008,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 162,
-    "timeDay": 201,
-    "timeWeek": 163,
+    "timeDay": 150,
+    "timeWeek": 156,
     "timeMonth": 164,
     "timeYear": 168,
-    "dailyMinutesDown": {
-      "2023-11-28": 30
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ventas Inmediatas",
@@ -1025,15 +1020,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ventasinmediatas.transturin.com.ico",
     "slug": "ventas-inmediatas",
     "status": "up",
-    "uptime": "93.71%",
+    "uptime": "93.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.17%",
-    "time": 476,
-    "timeDay": 81,
-    "timeWeek": 483,
-    "timeMonth": 496,
+    "time": 477,
+    "timeDay": 507,
+    "timeWeek": 540,
+    "timeMonth": 490,
     "timeYear": 461,
     "dailyMinutesDown": {
       "2024-09-09": 29,
