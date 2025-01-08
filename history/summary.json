@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.csbp.com.bo.ico",
     "slug": "c-s-b-p-portal",
     "status": "up",
-    "uptime": "34.35%",
-    "uptimeDay": "34.35%",
-    "uptimeWeek": "34.35%",
-    "uptimeMonth": "34.35%",
-    "uptimeYear": "34.35%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4687,
     "timeDay": 4687,
     "timeWeek": 4687,
     "timeMonth": 4687,
     "timeYear": 4687,
-    "dailyMinutesDown": {
-      "2025-01-08": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "C.S.B.P. - Home",
@@ -43,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/citas.csbp.com.bo.ico",
     "slug": "c-s-b-p-citas",
     "status": "down",
-    "uptime": "89.32%",
-    "uptimeDay": "89.32%",
-    "uptimeWeek": "89.32%",
-    "uptimeMonth": "89.32%",
-    "uptimeYear": "89.32%",
+    "uptime": "87.14%",
+    "uptimeDay": "87.14%",
+    "uptimeWeek": "87.14%",
+    "uptimeMonth": "87.14%",
+    "uptimeYear": "87.14%",
     "time": 4932,
     "timeDay": 4932,
     "timeWeek": 4932,
     "timeMonth": 4932,
     "timeYear": 4932,
     "dailyMinutesDown": {
-      "2025-01-08": 0
+      "2025-01-08": 1
     }
   },
   {
@@ -63,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/asegurados.csbp.com.bo.ico",
     "slug": "c-s-b-p-asegurados",
     "status": "up",
-    "uptime": "14.87%",
-    "uptimeDay": "14.87%",
-    "uptimeWeek": "14.87%",
-    "uptimeMonth": "14.87%",
-    "uptimeYear": "14.87%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 359,
     "timeDay": 359,
     "timeWeek": 359,
     "timeMonth": 359,
     "timeYear": 359,
-    "dailyMinutesDown": {
-      "2025-01-08": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bitácora d ROOT",
