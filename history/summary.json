@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.csbp.com.bo.ico",
     "slug": "c-s-b-p-www",
     "status": "down",
-    "uptime": "87.89%",
-    "uptimeDay": "87.89%",
-    "uptimeWeek": "87.89%",
-    "uptimeMonth": "87.89%",
-    "uptimeYear": "87.89%",
+    "uptime": "61.11%",
+    "uptimeDay": "61.11%",
+    "uptimeWeek": "61.11%",
+    "uptimeMonth": "61.11%",
+    "uptimeYear": "61.11%",
     "time": 859,
     "timeDay": 859,
     "timeWeek": 859,
     "timeMonth": 859,
     "timeYear": 859,
     "dailyMinutesDown": {
-      "2025-01-08": 2
+      "2025-01-08": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://portal.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/portal.csbp.com.bo.ico",
     "slug": "c-s-b-p-portal",
-    "status": "down",
-    "uptime": "55.86%",
-    "uptimeDay": "55.86%",
-    "uptimeWeek": "55.86%",
-    "uptimeMonth": "55.86%",
-    "uptimeYear": "55.86%",
-    "time": 2668,
-    "timeDay": 2668,
-    "timeWeek": 2668,
-    "timeMonth": 2668,
-    "timeYear": 2668,
+    "status": "up",
+    "uptime": "50.39%",
+    "uptimeDay": "50.39%",
+    "uptimeWeek": "50.39%",
+    "uptimeMonth": "50.39%",
+    "uptimeYear": "50.39%",
+    "time": 2438,
+    "timeDay": 2438,
+    "timeWeek": 2438,
+    "timeMonth": 2438,
+    "timeYear": 2438,
     "dailyMinutesDown": {
-      "2025-01-08": 22
+      "2025-01-08": 28
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://citas.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/citas.csbp.com.bo.ico",
     "slug": "c-s-b-p-citas",
-    "status": "down",
-    "uptime": "98.61%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "98.61%",
-    "uptimeYear": "98.61%",
-    "time": 2124,
-    "timeDay": 2124,
-    "timeWeek": 2124,
-    "timeMonth": 2124,
-    "timeYear": 2124,
+    "status": "up",
+    "uptime": "87.67%",
+    "uptimeDay": "87.67%",
+    "uptimeWeek": "87.67%",
+    "uptimeMonth": "87.67%",
+    "uptimeYear": "87.67%",
+    "time": 1738,
+    "timeDay": 1738,
+    "timeWeek": 1738,
+    "timeMonth": 1738,
+    "timeYear": 1738,
     "dailyMinutesDown": {
-      "2025-01-08": 1
+      "2025-01-08": 7
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/asegurados.csbp.com.bo.ico",
     "slug": "c-s-b-p-asegurados",
     "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptime": "87.57%",
+    "uptimeDay": "87.57%",
+    "uptimeWeek": "87.57%",
+    "uptimeMonth": "87.57%",
+    "uptimeYear": "87.57%",
     "time": 388,
     "timeDay": 388,
     "timeWeek": 388,
     "timeMonth": 388,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2025-01-08": 0
+      "2025-01-08": 7
     }
   },
   {
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 204,
-    "timeWeek": 171,
-    "timeMonth": 170,
+    "timeDay": 217,
+    "timeWeek": 180,
+    "timeMonth": 174,
     "timeYear": 171,
     "dailyMinutesDown": {}
   }
