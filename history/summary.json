@@ -4,18 +4,20 @@
     "url": "https://portal.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/portal.csbp.com.bo.ico",
     "slug": "c-s-b-p-portal",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "88.19%",
+    "uptimeDay": "88.19%",
+    "uptimeWeek": "88.19%",
+    "uptimeMonth": "88.19%",
+    "uptimeYear": "88.19%",
     "time": 4687,
     "timeDay": 4687,
     "timeWeek": 4687,
     "timeMonth": 4687,
     "timeYear": 4687,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-08": 1
+    }
   },
   {
     "name": "C.S.B.P. - Home",
@@ -23,17 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.csbp.com.bo.ico",
     "slug": "c-s-b-p-home",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "94.02%",
+    "uptimeDay": "94.02%",
+    "uptimeWeek": "94.02%",
+    "uptimeMonth": "94.02%",
+    "uptimeYear": "94.02%",
     "time": 629,
     "timeDay": 629,
     "timeWeek": 629,
     "timeMonth": 629,
     "timeYear": 629,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-08": 1
+    }
   },
   {
     "name": "C.S.B.P. - Citas",
@@ -41,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/citas.csbp.com.bo.ico",
     "slug": "c-s-b-p-citas",
     "status": "down",
-    "uptime": "87.14%",
-    "uptimeDay": "87.14%",
-    "uptimeWeek": "87.14%",
-    "uptimeMonth": "87.14%",
-    "uptimeYear": "87.14%",
+    "uptime": "32.55%",
+    "uptimeDay": "32.55%",
+    "uptimeWeek": "32.55%",
+    "uptimeMonth": "32.55%",
+    "uptimeYear": "32.55%",
     "time": 4932,
     "timeDay": 4932,
     "timeWeek": 4932,
     "timeMonth": 4932,
     "timeYear": 4932,
     "dailyMinutesDown": {
-      "2025-01-08": 1
+      "2025-01-08": 8
     }
   },
   {
@@ -60,18 +64,20 @@
     "url": "https://asegurados.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/asegurados.csbp.com.bo.ico",
     "slug": "c-s-b-p-asegurados",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.85%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "98.85%",
     "time": 359,
     "timeDay": 359,
     "timeWeek": 359,
     "timeMonth": 359,
     "timeYear": 359,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-08": 0
+    }
   },
   {
     "name": "Bitácora d ROOT",
