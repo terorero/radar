@@ -5,6 +5,7 @@ repo: radar # The name of this repository
 sites:
   - name: C.S.B.P. - WWW
     url: https://www.csbp.com.bo
+    icon: https://asegurados.csbp.com.bo/assets/img/favicon/favicon.png
   - name: C.S.B.P. - PORTAL
     url: https://portal.csbp.com.bo
   - name: C.S.B.P. - CITAS
