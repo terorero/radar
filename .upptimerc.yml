@@ -37,11 +37,12 @@ status-website:
  # theme: dark
   theme: light  
   # TeroRERO introMessage: © Derechos Reservados  2023
-  introMessage: © LA RAZÓN - EL EXTRA - IGMC ®2024
+  # TeroRERO introMessage: © LA RAZÓN - EL EXTRA - IGMC ®2024
+  introMessage: © MONITOR - WEB - ON-LINE ®2025
   navbar:
     - title: Radar
       href: /
-    - title: La Razón
+    - title: Monitor ON-Line
       href: https://www.root24.eu.org
 
 i18n:
@@ -83,7 +84,7 @@ i18n:
   ms: ms
   loading: Cargando
   navGitHub: GitHub
-  footer: © Derechos reservados  2024, powered by [BITACORAROOT](https://www.bitacoraroot.com)
+  footer: © Derechos reservados  2025, powered by [BITACORAROOT](https://www.bitacoraroot.com)
   rateLimitExceededTitle: Límite de tarifa superado
   rateLimitExceededIntro: Has superado el número de peticiones que puedes hacer en una hora, por lo que tendrás que esperar antes de volver a acceder a este sitio web. Como alternativa, puedes añadir un token de acceso personal de GitHub para seguir utilizando este sitio web.
   rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
