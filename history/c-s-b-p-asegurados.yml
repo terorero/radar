@@ -1,7 +1,7 @@
 url: https://asegurados.csbp.com.bo
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-19T23:17:10.654Z
+status: up
+code: 200
+responseTime: 613
+lastUpdated: 2025-10-20T07:23:17.599Z
 startTime: 2025-01-08T18:36:34.085Z
 generator: Upptime <https://github.com/upptime/upptime>
