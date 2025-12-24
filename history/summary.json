@@ -275,18 +275,19 @@
     "url": "https://www.bitacoraroot.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bitacoraroot.com.ico",
     "slug": "bitacora-d-root",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 211,
-    "timeDay": 133,
-    "timeWeek": 176,
-    "timeMonth": 201,
+    "time": 212,
+    "timeDay": 233,
+    "timeWeek": 196,
+    "timeMonth": 205,
     "timeYear": 227,
     "dailyMinutesDown": {
+      "2025-12-24": 0,
       "2025-11-18": 117
     }
   }
