@@ -4,10 +4,10 @@
     "url": "https://www.csbp.com.bo",
     "icon": "https://asegurados.csbp.com.bo/assets/img/favicon/favicon.png",
     "slug": "c-s-b-p-www",
-    "status": "up",
+    "status": "down",
     "uptime": "71.72%",
-    "uptimeDay": "92.34%",
-    "uptimeWeek": "91.81%",
+    "uptimeDay": "92.32%",
+    "uptimeWeek": "92.03%",
     "uptimeMonth": "91.74%",
     "uptimeYear": "71.72%",
     "time": 2008,
@@ -140,7 +140,7 @@
       "2025-02-01": 247,
       "2025-01-31": 522,
       "2025-01-30": 516,
-      "2025-01-29": 356
+      "2025-01-29": 339
     }
   },
   {
@@ -150,9 +150,9 @@
     "slug": "c-s-b-p-portal",
     "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "81.75%",
-    "uptimeWeek": "90.18%",
-    "uptimeMonth": "91.96%",
+    "uptimeDay": "82.41%",
+    "uptimeWeek": "90.50%",
+    "uptimeMonth": "91.98%",
     "uptimeYear": "98.68%",
     "time": 3208,
     "timeDay": 4898,
@@ -160,7 +160,7 @@
     "timeMonth": 4661,
     "timeYear": 3208,
     "dailyMinutesDown": {
-      "2026-01-03": 264,
+      "2026-01-03": 254,
       "2026-01-02": 35,
       "2025-12-31": 57,
       "2025-12-30": 107,
@@ -183,7 +183,7 @@
       "2025-01-31": 509,
       "2025-01-30": 439,
       "2025-01-29": 349,
-      "2025-01-28": 265
+      "2025-01-28": 293
     }
   },
   {
@@ -194,7 +194,7 @@
     "status": "up",
     "uptime": "93.24%",
     "uptimeDay": "92.05%",
-    "uptimeWeek": "93.20%",
+    "uptimeWeek": "93.42%",
     "uptimeMonth": "92.58%",
     "uptimeYear": "93.24%",
     "time": 1434,
@@ -261,7 +261,7 @@
     "status": "up",
     "uptime": "98.57%",
     "uptimeDay": "91.54%",
-    "uptimeWeek": "92.58%",
+    "uptimeWeek": "92.81%",
     "uptimeMonth": "92.16%",
     "uptimeYear": "98.57%",
     "time": 783,
