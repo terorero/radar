@@ -5,7 +5,7 @@
     "icon": "https://asegurados.csbp.com.bo/assets/img/favicon/favicon.png",
     "slug": "c-s-b-p-www",
     "status": "up",
-    "uptime": "84.30%",
+    "uptime": "84.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -77,16 +77,16 @@
     "url": "https://citas.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/citas.csbp.com.bo.ico",
     "slug": "c-s-b-p-citas",
-    "status": "up",
+    "status": "down",
     "uptime": "96.23%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
-    "time": 1076,
-    "timeDay": 1193,
-    "timeWeek": 972,
-    "timeMonth": 1018,
+    "time": 1078,
+    "timeDay": 1209,
+    "timeWeek": 1003,
+    "timeMonth": 1024,
     "timeYear": 1189,
     "dailyMinutesDown": {
       "2025-11-02": 306,
@@ -103,7 +103,8 @@
       "2026-01-04": 51,
       "2026-01-22": 26,
       "2026-04-19": 165,
-      "2026-07-03": 58
+      "2026-07-03": 58,
+      "2026-10-22": 0
     }
   },
   {
